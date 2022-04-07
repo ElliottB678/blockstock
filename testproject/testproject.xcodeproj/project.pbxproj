@@ -35,7 +35,7 @@
 		94A9ED0927BC3C9F00DF66A2 = {
 			isa = PBXGroup;
 			children = (
-				94A9ED1427BC3C9F00DF66A2 /* timescope */,
+				94A9ED1427BC3C9F00DF66A2 /* testproject */,
 				94A9ED1327BC3C9F00DF66A2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,7 +48,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		94A9ED1427BC3C9F00DF66A2 /* timescope */ = {
+		94A9ED1427BC3C9F00DF66A2 /* testproject */ = {
 			isa = PBXGroup;
 			children = (
 				94A9ED1527BC3C9F00DF66A2 /* testprojectApp.swift */,
@@ -56,7 +56,7 @@
 				94A9ED1927BC3CA300DF66A2 /* Assets.xcassets */,
 				94A9ED1B27BC3CA300DF66A2 /* Preview Content */,
 			);
-			path = timescope;
+			path = testproject;
 			sourceTree = "<group>";
 		};
 		94A9ED1B27BC3CA300DF66A2 /* Preview Content */ = {
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 94A9ED0D27BC3C9F00DF66A2 /* Build configuration list for PBXProject "timescope" */;
+			buildConfigurationList = 94A9ED0D27BC3C9F00DF66A2 /* Build configuration list for PBXProject "testproject" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		94A9ED0D27BC3C9F00DF66A2 /* Build configuration list for PBXProject "timescope" */ = {
+		94A9ED0D27BC3C9F00DF66A2 /* Build configuration list for PBXProject "testproject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				94A9ED1E27BC3CA300DF66A2 /* Debug */,
