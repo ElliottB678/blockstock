@@ -7,10 +7,19 @@
 
 import SwiftUI
 
+let timeZoneData = ["Time 1" , "Time 2", "Time 3", "Time 4", "Time 5"]
+
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        List {
+            ForEach (timeZoneData, id: \.self) { myRow in
+                HStack{
+                    Text("Location")
+                    Text(myRow)
+                }
+                
+            }
+        }
     }
 }
 
