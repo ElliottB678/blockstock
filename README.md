@@ -8,3 +8,7 @@ our solar system displaying where the planets are currently located.
 
 Timescope gives you interesting visual data and a different perspective of 
 the current time and how we measure time as humans.
+
+## Project plans and concepts
+
+
