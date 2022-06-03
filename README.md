@@ -16,3 +16,9 @@ to see while checking their time zones.
 ![solar system model](2DsolarSystem.png)
 
 Here are current updates to the main screen user interface to set which time zones you want displayed in the Timescope widget
+
+![UI screen](timescope_ui_concept.png)
+
+This is the app icon I designed for this app
+
+![Timescope icon](icon_40pt@3x.png)
