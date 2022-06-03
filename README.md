@@ -10,7 +10,7 @@ Timescope gives you interesting visual data and a different perspective of
 the current time and how we measure time as humans.
 
 ## Project plans and concepts
-I want to put a live 2D model of the solar system in accordance to our time and display it for the user
+I want to put a real time 2D model of the solar system similar to this one and display it for the user
 to see while checking their time zones.
 
 ![solar system model](2DsolarSystem.png)
